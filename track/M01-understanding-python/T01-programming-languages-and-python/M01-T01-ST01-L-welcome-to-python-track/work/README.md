@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+Panchashree.
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+Logic, Functions, Arrays.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+Python is easy to learn.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+To become a software engineer
 
 ## What I Understood Today
 
-Complete these sentences:
+Complete these sentences: Basics of Python Programming
 
-Programming means:
+Programming means: Writing a code.
 
-Python is:
+Python is: High-level language
 
-In this track, I will learn:
+In this track, I will learn: Coding.
