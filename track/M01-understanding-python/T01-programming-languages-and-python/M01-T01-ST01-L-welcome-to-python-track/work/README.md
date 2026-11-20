@@ -14,7 +14,7 @@ Python is easy to learn.
 
 ## My Career Goal
 
-To become a software engineer
+To become a software engineer.
 
 ## What I Understood Today
 
@@ -25,3 +25,4 @@ Programming means: Writing a code.
 Python is: High-level language
 
 In this track, I will learn: Coding.
+
